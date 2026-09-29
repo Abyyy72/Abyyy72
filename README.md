@@ -22,7 +22,7 @@
 
 ### 📊 STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abyyy72&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63D9FF&icon_color=63D9FF&text_color=FFFFFF&include_all_commits=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abyyy72&theme=github_dark" width="100%"/>
 
 </td>
 <td align="center">
@@ -48,7 +48,7 @@
 
 ## 📈 COMMITS & ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&bg_color=0D1117&color=FFFFFF&line=21B6E6&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20%26%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&theme=github-dark" width="100%"/>
 
 </div>
 
