@@ -89,6 +89,12 @@
 <a href="https://github.com/Abyyy72">
 <img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://instagram.com/abyyy_hr">
+<img src="https://img.shields.io/badge/Instagram-071A2B?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://tiktok.com/@abyyylenathea">
+<img src="https://img.shields.io/badge/TikTok-071A2B?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
 
 </div>
 
