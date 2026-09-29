@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:063B63,100:00A6D6&height=240&section=header&text=ABYYY72&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 🌊 ABYYY72
+# HABIBURRAHMAN
 
 ### `IT Student` • `Web Developer`
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## 🌊 ABOUT ME
+## ABOUT ME
 
 </div>
 
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-## 🌊 TECH STACK
+## TECH STACK
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=4"/>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-## 💧 WHAT I'M LEARNING
+## WHAT I'M LEARNING
 
 🌐 **WEB DEVELOPMENT**  
 HTML • CSS • JavaScript • PHP
@@ -73,16 +73,16 @@ Building & deploying web projects
 
 <div align="center">
 
-## 🧾 PROJECTS
+## PROJECTS
 
-### 🧾 Receipt Generator
+### Receipt Generator
 Custom receipt & company branding
 
-### 💰 Cashier Project
+### Cashier Project
 CRUD • Database • Transactions
 
-### 🎮 MLBB Tournament
-Tournament management
+### MLBB Tournament
+Bracket Tournament
 
 </div>
 
@@ -104,7 +104,7 @@ Tournament management
 
 <div align="center">
 
-## 🌊 MY CODE FLOW
+## MY CODE FLOW
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&bg_color=0D1117&color=FFFFFF&line=21B6E6&point=FFFFFF&area=true&hide_border=true)](https://github.com/Abyyy72)
 
@@ -114,7 +114,7 @@ Tournament management
 
 <div align="center">
 
-## ⚔️ CONNECT WITH ME
+## CONNECT WITH ME
 
 <a href="https://github.com/Abyyy72">
 <img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white"/>
