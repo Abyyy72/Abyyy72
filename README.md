@@ -48,7 +48,17 @@
 
 ## 📈 COMMITS & ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&theme=github-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&theme=github-dark&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=4" />
 
 </div>
 
