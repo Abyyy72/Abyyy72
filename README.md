@@ -25,27 +25,9 @@
 
 ---
 
-## ⚔️ MY WATER PATH
-
 <div align="center">
 
-🌊 **HENING** — stay focused  
-💧 **ARUS** — keep moving  
-⚔️ **TEKAD** — keep building
-
-<br>
-
-```
-             ~ ~ ~ ~ ~ ~ ~
-          ~       🌊       ~
-       ~       ╱╲ ╱╲        ~
-      ~      ╱   ⚔️   ╲       ~
-       ~       ╲ ╱╲ ╱       ~
-          ~      ╲╱       ~
-             ~ ~ ~ ~ ~ ~ ~
-
-        CODE FLOWS LIKE WATER.
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=MY%20WATER%20PATH&fontSize=42&fontColor=63D9FF&animation=fadeIn&desc=FOCUS%20%E2%80%A2%20FLOW%20%E2%80%A2%20RESOLVE&descSize=20&descAlignY=68&descColor=B8EFFF" width="100%"/>
 
 </div>
 
