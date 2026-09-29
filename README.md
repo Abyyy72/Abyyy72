@@ -2,7 +2,6 @@
 
 <img src="./assets/giyu-abyyy72.png" width="100%"/>
 
-# HABIBURRAHMAN
 ### `IT Student`
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=3000&pause=1200&color=63D9FF&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Welcome+to+my+GitHub+Profile+%E2%9C%A6;Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
