@@ -1,103 +1,123 @@
 <div align="center">
 
-<img src="./assets/water-banner.svg" width="100%" alt="Water themed profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:063B63,100:00A6D6&height=240&section=header&text=ABYYY72&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=38&desc=HENING%20%E2%80%A2%20ARUS%20%E2%80%A2%20TEKAD&descSize=22&descAlignY=62&descColor=B8EFFF" width="100%"/>
 
 # 🌊 ABYYY72
 
-### 💻 Web Developer • Informatics Student • Tech Enthusiast
+### `IT Student` • `Web Developer` • `Water Breathing Enjoyer`
 
-*静かに学び、コードで形にする。*  
-*Learn quietly. Build with code.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Hening+%E2%80%A2+Arus+%E2%80%A2+Tekad;Build+quietly.+Let+the+code+speak.;Welcome+to+my+water-themed+profile+%F0%9F%8C%8A" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm an Informatics student who enjoys exploring **web development, programming, databases, and software projects**.
-
-I like learning by building things — from small experiments to applications that can actually be used.
-
-- 🎓 Informatics Student
-- 💻 Interested in Web Development
-- 🌱 Currently improving my programming skills
-- 🗄️ Exploring databases & backend development
-- 🚀 Building projects and learning through practice
-- 🌊 Giyu / Water Breathing aesthetic enjoyer
-
----
-
-## ⚔️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-## 🌊 Featured Projects
-
-### 🧾 Receipt Generator
-A web application concept for creating customized receipts with company branding and distinctive designs.
-
-**Focus:** Web Development • UI Design
-
-### 💰 Cashier Project
-A web-based cashier project for managing products and transactions.
-
-**Focus:** CRUD • Database • Web Development
-
-### 🎮 MLBB Tournament Project
-A project concept related to organizing and managing a Mobile Legends tournament.
-
-**Focus:** Tournament Management • Web Development
-
----
-
-## 📚 Currently Learning
+## 🌊 ABOUT ME
 
 ```text
-WEB DEVELOPMENT
-│
-├── Frontend
-│   ├── HTML
-│   ├── CSS
-│   └── JavaScript
-│
-├── Backend
-│   └── PHP
-│
-├── Database
-│   └── MySQL
-│
-└── Tools
-    ├── Git
-    └── GitHub
+🧑‍💻  Informatics Student
+🌐  Web Development
+🗄️  Database & Backend Explorer
+💻  Building projects while learning
+🌊  Giyu / Water Breathing enthusiast
+🚀  Learning by building
 ```
 
 ---
 
-## 📊 GitHub Stats
+## ⚔️ MY WATER PATH
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abyyy72&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy72&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+🌊 **HENING** — stay focused  
+💧 **ARUS** — keep moving  
+⚔️ **TEKAD** — keep building
+
+<br>
+
+```
+             ~ ~ ~ ~ ~ ~ ~
+          ~       🌊       ~
+       ~       ╱╲ ╱╲        ~
+      ~      ╱   ⚔️   ╲       ~
+       ~       ╲ ╱╲ ╱       ~
+          ~      ╲╱       ~
+             ~ ~ ~ ~ ~ ~ ~
+
+        CODE FLOWS LIKE WATER.
+```
+
+</div>
+
+---
+
+## 🌊 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=4"/>
+
+</div>
+
+---
+
+## 💧 WHAT I'M LEARNING
+
+| 🌊 Area | ⚔️ Focus |
+| --- | --- |
+| 🌐 Web | HTML • CSS • JavaScript • PHP |
+| 🗄️ Database | MySQL • CRUD • SQL |
+| ⚙️ Development | Frontend • Backend |
+| 🔧 Tools | Git • GitHub • VS Code |
+| 🚀 Projects | Building & deploying web projects |
+
+---
+
+## 🧾 PROJECTS
+
+<div align="center">
+
+| Project | Focus |
+| --- | --- |
+| 🧾 Receipt Generator | Custom receipt & company branding |
+| 💰 Cashier Project | CRUD • Database • Transactions |
+| 🎮 MLBB Tournament | Tournament management |
+
+</div>
+
+---
+
+## 🌊 GITHUB STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abyyy72&show_icons=true&hide_border=true&bg_color=0D1117&title_color=63D9FF&icon_color=63D9FF&text_color=FFFFFF"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Abyyy72&theme=dark&hide_border=true&ring=63D9FF&fire=63D9FF&currStreakLabel=63D9FF"/>
+
+</div>
+
+---
+
+## 🌊 MY CODE FLOW
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&bg_color=0D1117&color=FFFFFF&line=21B6E6&point=FFFFFF&area=true&hide_border=true)](https://github.com/Abyyy72)
+
+</div>
+
+---
+
+## ⚔️ CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/Abyyy72">
+<img src="https://img.shields.io/badge/GitHub-071A2B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -105,12 +125,8 @@ WEB DEVELOPMENT
 
 <div align="center">
 
-### 🌊 「水のように静かに、コードのように確実に。」
+### 🌊 `HENING • ARUS • TEKAD`
 
-**Learn • Build • Improve**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Abyyy72&style=flat-square&color=0e75b6&label=PROFILE+VIEWS"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6D6,50:063B63,100:020B18&height=120&section=footer" width="100%"/>
 
 </div>
