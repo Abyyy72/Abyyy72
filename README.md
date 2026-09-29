@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## ♥ MORE INFO
+## MORE INFO
 
 </div>
 
