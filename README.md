@@ -5,7 +5,11 @@
 # HABIBURRAHMAN
 ### `IT Student` • `Web Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Welcome.;Welcome+%E2%80%A2+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.;Let+the+code+speak." />
+
+<br>
+
+### ✦ WELCOME ✦
 
 </div>
 
