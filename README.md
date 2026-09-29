@@ -4,7 +4,7 @@
 
 # 🌊 ABYYY72
 
-### `IT Student` • `Web Developer` • `Water Breathing Enjoyer`
+### `IT Student` • `Web Developer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
 
@@ -24,7 +24,6 @@
 🌐 **Web Development**  
 🗄️ **Database & Backend Explorer**  
 💻 **Building projects while learning**  
-🌊 **Giyu / Water Breathing enthusiast**  
 🚀 **Learning by building**
 
 </div>
@@ -33,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=HENING%20%E2%80%A2%20ARUS%20%E2%80%A2%20TEKAD&fontSize=34&fontColor=63D9FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Don%27t%20give%20up.%20Giving%20up%20won%27t%20get%20us%20anywhere.&fontSize=26&fontColor=63D9FF&font=Montserrat&animation=fadeIn" width="100%"/>
 
 </div>
 
