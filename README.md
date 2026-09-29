@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:063B63,100:00A6D6&height=240&section=header&text=ABYYY72&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=38&desc=MY%20WATER%20PATH&descSize=24&descAlignY=62&descColor=B8EFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:063B63,100:00A6D6&height=240&section=header&text=ABYYY72&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 # 🌊 ABYYY72
 
 ### `IT Student` • `Web Developer` • `Water Breathing Enjoyer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=MY+WATER+PATH;Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=MY%20WATER%20PATH&fontSize=42&fontColor=63D9FF&animation=fadeIn&desc=FOCUS%20%E2%80%A2%20FLOW%20%E2%80%A2%20RESOLVE&descSize=20&descAlignY=68&descColor=B8EFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=HENING%20%E2%80%A2%20ARUS%20%E2%80%A2%20TEKAD&fontSize=34&fontColor=63D9FF&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -126,8 +126,6 @@ Tournament management
 ---
 
 <div align="center">
-
-### 🌊 `MY WATER PATH`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6D6,50:063B63,100:020B18&height=120&section=footer" width="100%"/>
 
