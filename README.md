@@ -28,9 +28,9 @@
 </td>
 <td align="center">
 
-### 💻 TOP LANGUAGES
+### 🛠️ TECH STACK
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy72&layout=donut&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&langs_count=6" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=4" />
 
 </td>
 <td align="center">
