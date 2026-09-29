@@ -27,9 +27,9 @@
 </td>
 <td align="center">
 
-### 🛠️ TECH STACK
+### 🌐 TOP LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abyyy72&theme=github_dark" width="100%"/>
 
 </td>
 <td align="center">
