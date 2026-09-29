@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:063B63,100:00A6D6&height=240&section=header&text=ABYYY72&fontSize=58&fontColor=EAFBFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="./assets/giyu-abyyy72.png" width="100%"/>
 
 # HABIBURRAHMAN
 
