@@ -3,7 +3,7 @@
 <img src="./assets/giyu-abyyy72.png" width="100%"/>
 
 # HABIBURRAHMAN
-# `IT Student` • `Web Developer`
+### `IT Student` • `Web Developer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
 
