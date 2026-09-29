@@ -5,7 +5,7 @@
 # HABIBURRAHMAN
 ### `IT Student` • `Web Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=3000&pause=1000&color=63D9FF&center=true&vCenter=true&width=700&lines=Build+quietly.+Welcome.;Welcome+%E2%80%A2+Let+the+code+speak.;Focus+%E2%80%A2+Flow+%E2%80%A2+Resolve" />
 
 </div>
 
@@ -50,16 +50,6 @@
 ## 📈 COMMITS & ACTIVITY
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abyyy72&bg_color=0D1117&color=FFFFFF&line=21B6E6&point=FFFFFF&area=true&hide_border=true&custom_title=Commits%20%26%20Activity" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&perline=8" />
 
 </div>
 
