@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Don%27t%20give%20up.%20Giving%20up%20won%27t%20get%20us%20anywhere.&fontSize=26&fontColor=63D9FF&font=Montserrat&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Don%27t%20give%20up.%20Giving%20up%20won%27t%20get%20us%20anywhere.&fontSize=26&fontColor=63D9FF&font=Poppins&fontStyle=italic&fontWeight=700&animation=fadeIn" width="100%"/>
 
 </div>
 
