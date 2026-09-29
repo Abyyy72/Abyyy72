@@ -63,13 +63,24 @@
 
 ## 💧 WHAT I'M LEARNING
 
-| 🌊 Area | ⚔️ Focus |
-| --- | --- |
-| 🌐 Web | HTML • CSS • JavaScript • PHP |
-| 🗄️ Database | MySQL • CRUD • SQL |
-| ⚙️ Development | Frontend • Backend |
-| 🔧 Tools | Git • GitHub • VS Code |
-| 🚀 Projects | Building & deploying web projects |
+<div align="center">
+
+🌐 **WEB DEVELOPMENT**  
+HTML • CSS • JavaScript • PHP
+
+🗄️ **DATABASE**  
+MySQL • CRUD • SQL
+
+⚙️ **DEVELOPMENT**  
+Frontend • Backend
+
+🔧 **TOOLS**  
+Git • GitHub • VS Code
+
+🚀 **PROJECTS**  
+Building & deploying web projects
+
+</div>
 
 ---
 
@@ -77,11 +88,14 @@
 
 <div align="center">
 
-| Project | Focus |
-| --- | --- |
-| 🧾 Receipt Generator | Custom receipt & company branding |
-| 💰 Cashier Project | CRUD • Database • Transactions |
-| 🎮 MLBB Tournament | Tournament management |
+### 🧾 Receipt Generator
+Custom receipt & company branding
+
+### 💰 Cashier Project
+CRUD • Database • Transactions
+
+### 🎮 MLBB Tournament
+Tournament management
 
 </div>
 
