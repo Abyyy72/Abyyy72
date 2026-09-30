@@ -22,14 +22,14 @@
 
 ### 📊 STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abyyy72&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abyyy72&theme=github_dark" width="100%"/>
 
 </td>
 <td align="center">
 
 ### 🌐 TOP LANGUAGES
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abyyy72&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abyyy72&theme=github_dark" width="100%"/>
 
 </td>
 <td align="center">
